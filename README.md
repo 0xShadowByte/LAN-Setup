@@ -14,7 +14,6 @@ To simulate a small office network with three wired computers, one printer, and 
 ### Tools Used
 
 - CISCO Packet Tracer
-- 
 
 ### Steps
 
