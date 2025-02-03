@@ -87,7 +87,8 @@ To simulate a small office network with three wired computers, one printer, and 
 
 *Ref 18: Setting up the printer with a static IP so it doesn't change whenever it restarts. The printer should have an IP in the same network as the other wired devices but outside the DHCP pool to avoid conflicts. For the example, we're giving the printer a static IP address of 192.168.1.101. Then click on the printer > config > interface > FastEthernet0*
 
-![image](https://github.com/user-attachments/assets/5978742c-23b3-425a-987c-97ff676049bd)
+![image](https://github.com/user-attachments/assets/0da659e9-018c-4fce-a1bc-a97e7648980b)
+
 
 
 
