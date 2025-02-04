@@ -7,7 +7,7 @@ To simulate a small office network with three wired computers, one printer, and 
 ### Skills Learned
 
 - Learned about wired and wireless connection
-- Learned how to configure wired and wireless routers
+- Learned how to configure wired and wireless routers with DCHP
 - Learned how to configure endpoint devices (wired and wireless)
 - Learned how to connect printer to the router
 
